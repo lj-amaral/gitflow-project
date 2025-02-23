@@ -1,5 +1,11 @@
 feature2
+feature2
 feature 1 fixed
 feature 2 wip
+
+master
+hotfix applied
+
+develop
 feature 1 wip
 develop
