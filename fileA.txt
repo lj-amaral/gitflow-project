@@ -3,3 +3,6 @@ hotfix applied
 
 feature 1 with 1 bug
 23b5482 (fix feature 1 bug X)
+
+feature 1 fixed
+c5a513f (fix feautre 1 bug Y)
