@@ -1,2 +1,5 @@
+feature2
 feature 1 fixed
 feature 2 wip
+feature 1 wip
+develop
